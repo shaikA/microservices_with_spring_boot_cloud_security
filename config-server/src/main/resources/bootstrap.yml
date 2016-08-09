@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kranthiB/microservices_with_spring_boot_cloud_security
+          uri: https://github.com/shaikA/microservices_with_spring_boot_cloud_security
           searchPaths: configData
 server:
   port: 8000
