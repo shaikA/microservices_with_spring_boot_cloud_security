@@ -10,7 +10,7 @@ server:
 # for server discovery
 eureka:
   instance:
-    hostname: localhost
+    hostname: 192.168.99.100
     port: ${server.port}
   client:
     registerWithEureka: false
